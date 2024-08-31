@@ -7,6 +7,10 @@ public class Main {
         boolean seguirCalculando = true;
         boolean programa = true;
 
+        //Michael Steeven Sanchez Fernandez
+        //Ejercicio de ley de Ohm y Definitiva de notas
+        //31/08/2024
+
         while (programa) {
             System.out.println("---------------------------------");
             System.out.println("Ejercicios...");
